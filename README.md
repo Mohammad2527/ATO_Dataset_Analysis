@@ -1,6 +1,6 @@
 # ATO_Dataset_Analysis
 
-# Following questions is answered in this Australian Taxation Office dataset:
+# Following questions are answered in this Australian Taxation Office dataset analysis:
 
 # How many people have government pensions and allowances in your subset of the hierarchy?
 
